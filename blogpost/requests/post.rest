@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title": "vitalyzd",
+    "author": "vt",
+    "url": "youtube.com",
+    "likes": 322332
+}
